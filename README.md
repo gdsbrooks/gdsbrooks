@@ -2,12 +2,7 @@
 - 👀 I’m interested in React, lightweight content-delivery, internet fairness, Dachshunds, and ice cream.
 - 🌱 I  graduated from IronHack's Web Development bootcamp in August 2021.
 - 💞️ I’m interested in all sorts of positions, prefereably US-based and remote.
-- 📫 How to reach me : george@gdsbrooks.com
-
-
-[<img align='left' alt=' George DS Brooks | LinkedIn' width='32px' src='https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-1.png&r=255&g=255&b=255' />][linkedin]
-[<img align='left' alt=' George DS Brooks | Email' width='32px' src='https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-email-2.png&r=255&g=255&b=255' />][email]
-[<img align='left' alt=' George DS Brooks | Whatsapp' width='32px' src='https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2016/png/iconmonstr-whatsapp-1.png&r=255&g=255&b=255' />][whatsapp]
+- 📫 How to reach me : george@georgebrooks.dev
 
 
 <br/><hr>
