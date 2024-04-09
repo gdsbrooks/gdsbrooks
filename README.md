@@ -10,6 +10,7 @@
 Technologies I use:
 <br/>
 <br/>
+<img alt='Node.js' src='https://img.shields.io/badge/-NodeJS-51CBF2?logo=nodedotjs&logoColor=white&style=plastic' />
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?logo=react&logoColor=white&style=plastic' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
