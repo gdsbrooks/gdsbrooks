@@ -1,16 +1,12 @@
 - 👋 Hi, I’m George
-- 👀 I’m interested in React, lightweight content-delivery, internet fairness, Dachshunds, and ice cream.
+- 👀 I’m  a fullstack engineer working with Node.js, React and AWS.
 - 🌱 I  graduated from IronHack's Web Development bootcamp in August 2021.
-- 💞️ I’m interested in all sorts of positions, prefereably US-based and remote.
-- 📫 How to reach me : george@georgebrooks.dev
+- 💞️ My interests include 🏉 Rugby, 🤓 Coding challenges, 🐶 Cute dogs, 💃 Dancing to house music, and 🍻 Fun with friends.
+- 📫 How to reach me : hi@georgebrooks.dev
 
+[linkedin]: https://www.linkedin.com/in/georgedsbrooks
+[email]: mailto:hi@georgebrooks.dev
 
-<br/><hr>
-### I'm a Junior Full Stack Web Developer with a passion for Front End development and React.
-<br/>
-
-My prior experience as a healthcare professional gives me strong analytical skills, attention to detail, a strong and resilient work ethic and the ability to connect with clients and collegues to build deep understanding and strong rapport. I'm primarily interested in freelance and remote positions and will be a great addition to any team!
-<br/><br/>
 Technologies I use:
 <br/>
 <br/>
@@ -56,7 +52,6 @@ I'm currently learning:
 
 <br/>
 <br/>
-My interests include 🏉 Rugby, 🤓 Coding challenges, 🐶 Cute dogs, 💃 Dancing to house music, and 🍻 Fun with friends.
 <br/>
 <br/>
 <img alt='CodeWars' src='https://www.codewars.com/users/gdsbrooks/badges/large' />
@@ -65,5 +60,5 @@ My interests include 🏉 Rugby, 🤓 Coding challenges, 🐶 Cute dogs, 💃 Da
 
 
 [linkedin]: https://www.linkedin.com/in/georgedsbrooks
-[email]: mailto:george@gdsbrooks.com
-[whatsapp]: https://wa.me/12064763991
+[email]: mailto:hi@georgebrooks.dev
+[whatsapp]: https://wa.me/351
