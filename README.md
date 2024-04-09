@@ -25,35 +25,13 @@ Technologies I use:
 Other utilities:
 <br/>
 <br/>
-<img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
+<img alt='Webstorm' src='https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=plastic' />
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic' />
+<img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
 <img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=plastic' />
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic' />
 <img alt='MongoCompass' src='http://img.shields.io/badge/-MongoCompass-47A248?logo=mongodb&logoColor=white&style=plastic' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic' />
-<img alt='Visual Studio' src='https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=plastic' />
-
-<br/>
-
-I'm currently learning:
-<br/>
-<br/>
-<img alt='React Native' src='https://img.shields.io/badge/-React%20Native-51CBF2?logo=react&logoColor=white&style=plastic' />
-<img alt='Markdown' src='https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=plastic' />
-<img alt='AngularJS' src='https://img.shields.io/badge/-AngularJS-E23237?logo=AngularJS&logoColor=white&style=plastic' />
-<img alt='Swift' src='https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=plastic' />
-<img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=plastic' />
-<img alt='Jest' src='https://img.shields.io/badge/-Jest-FFA787?logo=jest&logoColor=white&style=plastic' />
-<img alt='Mocha' src='https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=plastic' />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<img alt='CodeWars' src='https://www.codewars.com/users/gdsbrooks/badges/large' />
-
-![George's github stats](https://github-readme-stats.vercel.app/api?username=gdsbrooks&theme=dark&show_icons=true?count_private=true)
-
 
 [linkedin]: https://www.linkedin.com/in/georgedsbrooks
 [email]: mailto:hi@georgebrooks.dev
