@@ -5,7 +5,7 @@
 - 📫 How to reach me : hi@georgebrooks.dev
 
 [linkedin]: https://www.linkedin.com/in/georgedsbrooks
-[email]: mailto:hi@georgebrooks.dev
+[email]: mailto:hi@georgebrooks.xyz
 
 Technologies I use:
 <br/>
@@ -34,5 +34,5 @@ Other utilities:
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic' />
 
 [linkedin]: https://www.linkedin.com/in/georgedsbrooks
-[email]: mailto:hi@georgebrooks.dev
-[whatsapp]: https://wa.me/351
+[email]: mailto:hi@georgebrooks.xyz
+
